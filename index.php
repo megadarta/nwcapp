@@ -354,7 +354,7 @@
                                 }
                             }
                         }
-                        echo " = " . $total;
+                        echo " = <b>" . $total . "</b>";
                     ?>
                     
                     
