@@ -205,7 +205,7 @@
                                                 }
                                             
                                         ?>
-                                        <th>Supplay</th>
+                                        <th>Supply</th>
                                     </tr>
                                 </thead>
                                 <tbody id="minimumstock">
